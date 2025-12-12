@@ -99,7 +99,7 @@ AdvancedNSTextAttachment/
 
 ## 📝 Related Article
 
-📰 **[Read the full article on Medium](https://medium.com/@evgeniisamarin)** — Deep dive into NSTextAttachment APIs with step-by-step explanations.
+📰 **[Read the full article on Medium](https://medium.com/@e8geniosss/advanced-nstextattachment-displaying-custom-views-in-nsattributedstring-a442516a8af9)** — Deep dive into NSTextAttachment APIs with step-by-step explanations.
 
 ## 📄 License
 
