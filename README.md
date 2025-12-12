@@ -109,7 +109,7 @@ This project is available under the MIT License. See the [LICENSE](LICENSE) file
 
 **Evgenii Samarin**
 
-- [LinkedIn](https://linkedin.com/in/evgeniisamarin)
+- [LinkedIn](https://www.linkedin.com/in/EvgeniySamarin)
 - [GitHub](https://github.com/EvgeniiSamarin)
 
 ---
